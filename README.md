@@ -91,7 +91,6 @@ Esperamos aprender como otimizar o processo de onboarding e integração de novo
 - Equipe de Gestão.
 - Novos contratados (candidatos).
 
-
 ### 8. O que eles esperam ganhar? Anderson
 
 - Maior eficiência operacional.
@@ -116,10 +115,9 @@ Esperamos aprender como otimizar o processo de onboarding e integração de novo
 
 ### 12.	Desenhe uma arquitetura (Modelo Freeform - Versão inicial)
 
-AS-IS
- 
+![AS IS](as_is.png "AS IS")
 
-TO-BE
+![TO BE](to_be.png "TO BE")
  
 ### 13. Faça uma descrição de cada um dos componentes que você desenhou
 
