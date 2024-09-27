@@ -115,8 +115,10 @@ Esperamos aprender como otimizar o processo de onboarding e integração de novo
 
 ### 12.	Desenhe uma arquitetura (Modelo Freeform - Versão inicial)
 
+**AS IS**
 ![AS IS](as_is.png "AS IS")
 
+**TO BE**
 ![TO BE](to_be.png "TO BE")
  
 ### 13. Faça uma descrição de cada um dos componentes que você desenhou
@@ -184,26 +186,26 @@ A decisão de manter o Gupy como plataforma de recrutamento limitou a flexibilid
 
 ### 26.	Desenhe 3 Arquiteturas com o projeto que você desenvolveu na aula em cada uma das camadas do C4; (Subir somente a Imagem jpg/jpeg)
 
-Nota: Os 3 diagramas das arquiteturas foram carregados no gitHUB no repositório público.
-
-Vide
+Nota: Os 3 diagramas das arquiteturas foram carregados no gitHUB NESTE repositório público.
 
 ### 27.	Nível Contexto
 
-Vide
+**C4 CONTEXTO**
+![C4 CONTEXTO](c4c_contexto.png "C4 CONTEXTO")
 
 ### 28.	Nível Container
 
-Vide
+**C4 CONTAINER**
+![C4 CONTAINER](c4_container.png "C4 CONTAINER")
  
 ### 29.	Nível Componente
 
-Vide
+**C4 COMPONENTE**
+![C4 COMPONENTE](c4_componente.png "C4 COMPONENTE")
 
 ### 30.	Code (Opcional)
 
 Item Opcional, não foi abordado pelo time.
-
 
 ### 31.	Validar no checklist (opcional) - https://c4model.com/review/
 
