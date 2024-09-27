@@ -116,9 +116,11 @@ Esperamos aprender como otimizar o processo de onboarding e integração de novo
 ### 12.	Desenhe uma arquitetura (Modelo Freeform - Versão inicial)
 
 **AS IS**
+
 ![AS IS](as_is.png "AS IS")
 
 **TO BE**
+
 ![TO BE](to_be.png "TO BE")
  
 ### 13. Faça uma descrição de cada um dos componentes que você desenhou
@@ -191,16 +193,19 @@ Nota: Os 3 diagramas das arquiteturas foram carregados no gitHUB NESTE repositó
 ### 27.	Nível Contexto
 
 **C4 CONTEXTO**
-![C4 CONTEXTO](c4c_contexto.png "C4 CONTEXTO")
+
+![C4 CONTEXTO](c4_contexto.png "C4 CONTEXTO")
 
 ### 28.	Nível Container
 
 **C4 CONTAINER**
+
 ![C4 CONTAINER](c4_container.png "C4 CONTAINER")
  
 ### 29.	Nível Componente
 
 **C4 COMPONENTE**
+
 ![C4 COMPONENTE](c4_componente.png "C4 COMPONENTE")
 
 ### 30.	Code (Opcional)
