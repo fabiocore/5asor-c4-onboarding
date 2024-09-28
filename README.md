@@ -14,7 +14,7 @@ EQUIPE
 _Número dos RMs foram removidos por segurança_
 
 **LINK PARA O VÍDEO NA PLATAFORMA FIAP**
-**![VÍDEO DO TRABALHO]([as_is.png](https://fiapcom-my.sharepoint.com/:v:/g/personal/rm355479_fiap_com_br/EV2g9oQ2UZJKsY1_DXhdAzABQFcgqcCxZiBiF9hBhpighw?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view "VÍDEO DO TRABALHO")
+**![VÍDEO DO TRABALHO](https://fiapcom-my.sharepoint.com/:v:/g/personal/rm355479_fiap_com_br/EV2g9oQ2UZJKsY1_DXhdAzABQFcgqcCxZiBiF9hBhpighw?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view "VÍDEO DO TRABALHO")
 
 ### PROBLEMAS
 
