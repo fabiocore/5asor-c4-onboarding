@@ -13,6 +13,9 @@ EQUIPE
 
 _Número dos RMs foram removidos por segurança_
 
+**LINK PARA O VÍDEO NA PLATAFORMA FIAP**
+**![VÍDEO DO TRABALHO]([as_is.png](https://fiapcom-my.sharepoint.com/:v:/g/personal/rm355479_fiap_com_br/EV2g9oQ2UZJKsY1_DXhdAzABQFcgqcCxZiBiF9hBhpighw?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view) "VÍDEO DO TRABALHO")
+
 ### PROBLEMAS
 
 A companhia enfrenta um processo de recrutamento e onboarding fortemente dependente de etapas manuais, desde a atração e seleção de candidatos até a integração final dos novos colaboradores. Na fase de Atração e Relacionamento, campanhas de recrutamento e contatos iniciais são gerenciados manualmente, criando ineficiências na comunicação e dificultando a centralização de dados. Durante o processo seletivo, candidaturas, testes, entrevistas e follow-ups são realizados em diversas plataformas desconectadas, o que gera duplicidade de tarefas e retrabalho para compilar informações. As “Devolutivas” aos candidatos, tanto negativas quanto positivas, são feitas manualmente, aumentando o tempo de resposta e impactando a experiência do candidato.
