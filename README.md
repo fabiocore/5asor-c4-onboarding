@@ -14,7 +14,7 @@ EQUIPE
 _Número dos RMs foram removidos por segurança_
 
 **LINK PARA O VÍDEO NA PLATAFORMA FIAP**
-**![VÍDEO DO TRABALHO](https://fiapcom-my.sharepoint.com/:v:/g/personal/rm355479_fiap_com_br/EV2g9oQ2UZJKsY1_DXhdAzABQFcgqcCxZiBiF9hBhpighw?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view "VÍDEO DO TRABALHO")
+![VÍDEO DO TRABALHO](https://fiapcom-my.sharepoint.com/:v:/r/personal/rm355479_fiap_com_br/Documents/Grava%C3%A7%C3%B5es/Reuni%C3%A3o%20em%20Trabalho%20Final%20-%2028_09%20-%20Prof%20Leonardo%20Arquitetura%20da%20Escolha-20240926_214215-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?csf=1&web=1&e=VJRTGo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### PROBLEMAS
 
